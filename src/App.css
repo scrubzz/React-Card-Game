@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #27385efa;
+  min-height: 80px;
+  color: #ffffff;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.App-header h3 {
+  font-weight: normal;
+  color: #ffffff;
+}
+
+.App-cards {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 650px;
+  margin: 0 auto;
+  justify-content: center;
+}
